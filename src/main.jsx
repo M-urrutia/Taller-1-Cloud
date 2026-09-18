@@ -2,7 +2,7 @@ import React from "react";
 import { createRoot } from "react-dom/client";
 import "./styles.css";
 
-const STUDENT_NAME = "Maximiliano Urrutia y Vicente inserte_algo_aca";
+const STUDENT_NAME = "Maximiliano Urrutia y Vicente Ruiz";
 const SUBJECT = "Cloud Computing";
 const CURRENT_YEAR = new Date().getFullYear();
 
