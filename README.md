@@ -1,6 +1,7 @@
 # CloudDeploy — Frontend del Taller 1
 
 Frontend React + Vite pensado para el Taller 1 – PaaS (Coolify Self-hosted).
+token push: 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
 
 ## Ejecutar localmente
 
