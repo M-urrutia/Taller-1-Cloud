@@ -3,7 +3,7 @@ import { createRoot } from "react-dom/client";
 import "./styles.css";
 
 const STUDENT_NAME = "Maximiliano Urrutia y Vicente Ruiz";
-const SUBJECT = "Cloud Computing";
+const SUBJECT = "Cloud Mishputing";
 const CURRENT_YEAR = new Date().getFullYear();
 
 function App() {
